@@ -2,16 +2,16 @@ class script(object):
     START_TXT = """Wʜᴀᴛ's ᴜᴘ ᴄɪɴᴇᴍᴀ ʟᴏᴠᴇʀ ! {} I'ᴍ ʏᴏᴜʀ ʙᴇʟᴏᴠᴇᴅ <a href=https://t.me/{}>{}</a>.\n\nFᴀsᴛᴇɴ ʏᴏᴜʀ sᴇᴀᴛʙᴇʟᴛs! I'ᴍ ʜᴇʀᴇ ᴛᴏ ʙʀɪɴɢ ᴍᴏᴠɪᴇs ᴛᴏ ʏᴏᴜʀ Tᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ғᴀsᴛᴇʀ ᴛʜᴀɴ ᴀ Hᴏʟʟʏᴡᴏᴏᴅ ᴄᴀʀ ᴄʜᴀsᴇ. Lᴇᴛ's ʀᴏʟʟ! 🚗💨
 """
     LZTHMB_TEXT = """Hello {},
-Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/MC_Movie_Requests >🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/MC_Movie_Requests>🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
     """
     LZLINK_TEXT = """Hey {},
-Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/MC_Movie_Requests >🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
     """
     DNT_TEXT = """Hey sweetie {},
-Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/DonateLazyDeveloper>Click here...</a>\n\nT❤️ hank you so much..
+Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/MC_Movie_Requests >🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=https://t.me/MC_Movie_Requests>Click here...</a>\n\nT❤️ hank you so much..
     """
     REQ_AUTH_TEXT = """Hello {},
-\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/LazyDeveloperSupport>LazyDeveloper Support</a>\n\n
+\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/MC_Movie_Requests>🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a>\n\n
     """
     SHORTLINK_INFO = """<b>
  ❗<u>ʜᴏᴡ ᴛᴏ ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴜꜱɪɴɢ ʙᴏᴛ</u>❗
@@ -107,7 +107,7 @@ Here is the help for my COMMANDS."""
 
 """
     ABOUT_TXT = """✯ 𝕚𝕥𝕤❜𝕤 me: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/LazyDeveloper>🦋 𝕃𝕒𝕫𝕪𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🦋</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MC_Movie_Requests>🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -123,7 +123,7 @@ Here is the help for my COMMANDS."""
 - ✨Pʟᴇᴀsᴇ ɢɪᴠᴇ ᴀ sᴛᴀʀ ᴛᴏ ᴛʜɪs ʀᴇᴘᴏ ᴀғᴛᴇʀ ғᴏʀᴋ. Sᴀʟᴜᴛᴇ ᴛᴏ sɪʀ <a href=https://t.me/LazyDeveloperr>LᴀᴢʏDᴇᴠᴇʟᴏᴘᴇʀ</a> ғᴏʀ ᴀᴅᴅɪɴɢ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ɪɴ ᴍᴇ.
 
 <b>DEV:</b>
-- 🦋 <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 🦋"""
+- 🦋 <a href=https://t.me/MC_Movie_Requests>🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a> 🦋"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Fɪʟᴛᴇʀ ɪs ᴛʜᴇ ғᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜsᴇʀs ᴄᴀɴ sᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇs ғᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ LᴀᴢʏPʀɪɴᴇss ᴡɪʟʟ ʀᴇsᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴛʜᴀᴛ ᴋᴇʏᴡᴏʀᴅ ʜɪᴛs ᴛʜᴇ ᴍᴇssᴀɢᴇ
