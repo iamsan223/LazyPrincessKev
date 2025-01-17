@@ -2,10 +2,10 @@ class script(object):
     START_TXT = """Wʜᴀᴛ's ᴜᴘ ᴄɪɴᴇᴍᴀ ʟᴏᴠᴇʀ ! {} I'ᴍ ʏᴏᴜʀ ʙᴇʟᴏᴠᴇᴅ <a href=https://t.me/{}>{}</a>.\n\nFᴀsᴛᴇɴ ʏᴏᴜʀ sᴇᴀᴛʙᴇʟᴛs! I'ᴍ ʜᴇʀᴇ ᴛᴏ ʙʀɪɴɢ ᴍᴏᴠɪᴇs ᴛᴏ ʏᴏᴜʀ Tᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ғᴀsᴛᴇʀ ᴛʜᴀɴ ᴀ Hᴏʟʟʏᴡᴏᴏᴅ ᴄᴀʀ ᴄʜᴀsᴇ. Lᴇᴛ's ʀᴏʟʟ! 🚗💨
 """
     LZTHMB_TEXT = """Hello {},
-Glad to see you here. It seems that you really love <a href=https://t.me/MC_Movie_Requests >🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/MC_Movie_Requests>🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/MC_Movie_Requests >🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/MC_Movie_Requests>🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=https://t.me/MC_Movie_Requests>🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a>
     """
     LZLINK_TEXT = """Hey {},
-Glad to see you here. It seems that you really love <a href=https://t.me/MC_Movie_Requests >🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/MC_Movie_Requests >🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/MC_Movie_Requests>Dev Channel</a> and stay tuned for next <a href=https://t.me/MC_Movie_Requests>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=https://t.me/MC_Movie_Requests>🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a>
     """
     DNT_TEXT = """Hey sweetie {},
 Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/MC_Movie_Requests >🎥M&C [Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ]🎥</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=https://t.me/MC_Movie_Requests>Click here...</a>\n\nT❤️ hank you so much..
@@ -147,7 +147,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
+<code>[Button Text](buttonurl:https://t.me/MC_Movie_Requests)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
